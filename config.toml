@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://mahbab.github.io/personal-website/"
+base_url = "https://www.m15b.me"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
