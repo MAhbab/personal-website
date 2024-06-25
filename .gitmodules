@@ -1,0 +1,7 @@
+[submodule "themes/blow"]
+	path = themes/blow
+	url = https://github.com/tchartron/blow.git
+	branch = main
+[submodule "themes/hermit_zola"]
+	path = themes/hermit_zola
+	url = https://github.com/VersBinarii/hermit_zola.git
