@@ -1,6 +1,6 @@
 +++
-title = "You Probably Read Wrong and It's not Your Fault "
-date = "2025-12-8"
+title = "You Probably Read Wrong and It's not Your Fault"
+date = "2025-12-08"
 +++
 
 Consider this an antidote to the part of reading culture that praises number of books read over books read well. 
