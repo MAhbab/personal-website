@@ -3,8 +3,6 @@ title = "You Probably Read Wrong and It's not Your Fault"
 date = "2025-12-08"
 +++
 
-Consider this an antidote to the part of reading culture that praises number of books read over books read well. 
-
 I used to think reading was a chore. Like taking your vitamins, I thought it was something "good for you" that you just had to suffer through for hours at a time for some ephemeral benefits no one can quite pinpoint. Anytime I read a book, I read every single word, cover to cover. If I missed so much as a sentence, I reasoned, then I could not honestly say I *read* the book and conferred its benefits. Furthermore, I believed that once I read a book I'd absorbed its essence and thus had no reason to ever pick it up again.
 
 Then I read Mortimer J Adler's *How to Read a Book* and it transformed my relationship with books. Since reading it, I feel as though my reading of every subsequent book has been forever improved. In large part, this is because Adler helped me to dispense with bad reading habits I carried with me, ones we're all exposed to in school. Freeing myself of some of the norms around reading, particularly reading nonfiction, helped me to enjoy reading more. 
